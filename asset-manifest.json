@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT-emp-registrationform/static/css/main.e6c13ad2.css",
+    "main.js": "/REACT-emp-registrationform/static/js/main.03a282c3.js",
+    "static/js/787.0c3f432a.chunk.js": "/REACT-emp-registrationform/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/REACT-emp-registrationform/index.html",
+    "main.e6c13ad2.css.map": "/REACT-emp-registrationform/static/css/main.e6c13ad2.css.map",
+    "main.03a282c3.js.map": "/REACT-emp-registrationform/static/js/main.03a282c3.js.map",
+    "787.0c3f432a.chunk.js.map": "/REACT-emp-registrationform/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.03a282c3.js"
+  ]
+}
